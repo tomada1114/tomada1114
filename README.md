@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tomada+%F0%9F%91%8B;Full-Stack+Web+Engineer+%F0%9F%9A%80;Programming+Educator+%E2%9C%A8;Ruby+on+Rails+Expert+%F0%9F%92%8E;Udemy+Bestseller+Instructor+%F0%9F%8F%86;Living+in+Canada+%F0%9F%8D%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tomada+%F0%9F%91%8B;AI-Driven+Developer+%F0%9F%A4%96;Full-Stack+Web+Engineer+%F0%9F%9A%80;Udemy+Bestseller+Instructor+%F0%9F%8F%86;Claude+Code+Expert+%F0%9F%92%AB;Living+in+Canada+%F0%9F%8D%81" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -16,19 +16,20 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=ruby" width="100" height="100" alt="Ruby" />
-<br><strong>Ruby on Rails</strong>
+<img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100" alt="Next.js" />
+<br><strong>AI-Driven Development</strong>
 </td>
 <td width="500" align="left">
 
 ### 👋 **Hi, I'm Tomada!**
-🚀 **Full-Stack Web Engineer** passionate about Ruby on Rails  
-🌍 **Location:** Canada 🇨🇦 (Working with US teams)  
-💼 **Focus:** Building scalable web applications & teaching programming  
-☕ **Powered by:** Coffee, code, and curiosity  
-🎯 **Goal:** Helping developers achieve financial freedom through programming  
-📚 **Teaching:** 100+ students supported, Udemy bestseller courses  
-💰 **Achievement:** Scaled from $0 to $50K+ annual side income through programming  
+
+🤖 **AI-Driven Developer** specializing in Claude Code & Vibe Coding  
+🚀 **Full-Stack Engineer** with expertise in Next.js, React & Ruby on Rails  
+🌍 **Location:** Canada 🇨🇦 (Working globally)  
+💼 **Focus:** Building AI-powered applications & teaching modern development  
+🎯 **Mission:** Empowering developers with AI-driven development skills  
+📚 **Teaching:** 1,000+ students, Multiple Udemy bestseller courses  
+💰 **Achievement:** Built Learning Next in 1 month using Cursor & Claude  
 
 </td>
 </tr>
@@ -51,64 +52,30 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🔧 **Backend Development**
-<img src="https://skillicons.dev/icons?i=ruby,rails,python,php" />
+### 🤖 **AI Development Tools**
+<img src="https://img.shields.io/badge/Claude_Code-412991?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" height="48"/>
 
 ### 🌐 **Frontend Development**  
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" />
 
-### ☁️ **Infrastructure & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions" />
+### 🔧 **Backend Development**
+<img src="https://skillicons.dev/icons?i=rails,ruby,python,nodejs" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️ **Database**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+### 🗄️ **Database & Backend Services**
+<img src="https://skillicons.dev/icons?i=supabase,postgresql,mysql" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" height="32"/>
 
-### 🧪 **Testing**
-<img src="https://skillicons.dev/icons?i=jest" />
-<img src="https://img.shields.io/badge/RSpec-FF6B6B?style=for-the-badge&logo=ruby&logoColor=white" height="32"/>
+### ☁️ **Infrastructure & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" />
 
-### 💻 **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-
-### 🏅 **AWS Certified**
-<img src="https://img.shields.io/badge/Solutions_Architect-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/>
+### 🏅 **Certifications & Skills**
+<img src="https://img.shields.io/badge/AWS_Certified-6_Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/TOEIC-910-005CAF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" height="32"/>
 
 </td>
 </tr>
 </table>
-
-## 🎓 **Educational Content & Achievements**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
-<br><strong>Bestseller Instructor</strong>
-<br>📈 4.8/5 Rating
-<br>🎯 250+ Students
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<br><strong>Learning Next</strong>
-<br>📺 Programming Tutorials
-<br>🎯 Career-Focused Content
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=blogger&logoColor=white" />
-<br><strong>Tech Blog</strong>
-<br>💰 $3K-5K Monthly Revenue
-<br>📊 25K+ Monthly Readers
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Programming_School-4285F4?style=for-the-badge&logo=google-classroom&logoColor=white" />
-<br><strong>Mentor</strong>
-<br>👥 100+ Students Taught
-<br>⭐ 3+ Years Experience
-</td>
-</tr>
-</table>
-</div>
