@@ -1,81 +1,79 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+# Hi, I'm Tomada 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+**Software engineer who builds LLM features into real products — and author of a Claude Code book.**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tomada+%F0%9F%91%8B;AI-Driven+Developer+%F0%9F%A4%96;Full-Stack+Web+Engineer+%F0%9F%9A%80;Udemy+Bestseller+Instructor+%F0%9F%8F%86;Claude+Code+Expert+%F0%9F%92%AB;Living+in+Canada+%F0%9F%8D%81" alt="Typing SVG" />
-</div>
+- 📘 Author of [『Claude Codeで作って学ぶ AI駆動アプリ開発入門』](https://gihyo.jp/book/2026/978-4-297-15823-1) (Gijutsu-Hyoronsha, 2026, 384 pp.)
+- 🎓 Udemy instructor on AI-driven development — **10,000+ students**
+- 🛠 Building tools and apps with TypeScript / Next.js and Python, with Claude Code and Codex CLI as daily drivers
+- 🧭 Since 2016: network & infrastructure → security → full-stack web (Rails / Vue / GraphQL on a financial media service with 5M monthly users) → freelance AI-driven development
+- 📍 Colorado, US
 
-## 🌟 **About Me**
+## Tech stack
 
-<div align="center">
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100" alt="Next.js" />
-<br><strong>AI-Driven Development</strong>
-</td>
-<td width="500" align="left">
+**Languages**
 
-### 👋 **Hi, I'm Tomada!**
+[![Languages](https://skillicons.dev/icons?i=ts,py,ruby,swift)](#tech-stack)
 
-🤖 **AI-Driven Developer** specializing in Claude Code & Vibe Coding  
-🚀 **Full-Stack Engineer** with expertise in Next.js, React & Ruby on Rails  
-🌍 **Location:** Canada 🇨🇦 (Working globally)  
-💼 **Focus:** Building AI-powered applications & teaching modern development  
-🎯 **Mission:** Empowering developers with AI-driven development skills  
-📚 **Teaching:** 1,000+ students, Multiple Udemy bestseller courses  
-💰 **Achievement:** Built Learning Next in 1 month using Cursor & Claude  
+**Frameworks**
 
-</td>
-</tr>
-</table>
-</div>
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,rails,vue)](#tech-stack)
 
-## 📊 **GitHub Analytics**
+**Infra & tooling**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomada1114&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
+[![Infra](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,vercel,postgres,sqlite,pnpm)](#tech-stack)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomada1114&custom_title=Tomada's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
+**AI**
 
-## 🛠️ **Tech Stack**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+## What I'm building
 
-### 🤖 **AI Development Tools**
-<img src="https://img.shields.io/badge/Claude_Code-412991?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" height="48"/>
+### 🤖 Claude Code ecosystem
 
-### 🌐 **Frontend Development**  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" />
+| Project | What it does | Stack |
+|---|---|---|
+| [tomada-claude-plugins](https://github.com/tomada1114/tomada-claude-plugins) | A plugin marketplace of the Claude Code skills I use every day | Claude Code plugins · Python |
+| [hookassert](https://github.com/tomada1114/hookassert) | Test Claude Code hooks like code — replay tool events, fail CI when a hook doesn't fire or block | TypeScript · Vitest |
+| [clawd-band](https://github.com/tomada1114/clawd-band) | A pixel cat above the prompt that reacts to what Claude Code is doing | TypeScript · Claude Mod |
 
-### 🔧 **Backend Development**
-<img src="https://skillicons.dev/icons?i=rails,ruby,python,nodejs" />
+### 🧰 Developer tools
 
-</td>
-<td width="50%" align="center" valign="top">
+| Project | What it does | Stack |
+|---|---|---|
+| [tsc-blame](https://github.com/tomada1114/tsc-blame) | Deterministic type-check cost budgets, attributed per symbol against a committed baseline | TypeScript |
+| [vidprep](https://github.com/tomada1114/vidprep) | CLI pipeline that turns a recorded talk into cut, transcribed, subtitled video files | Python · Typer · SudachiPy |
+| [mokuji](https://github.com/tomada1114/mokuji) | Browse a repository's Markdown like a book, in the terminal | Python · Textual |
+| [importbudget](https://github.com/tomada1114/importbudget) | Profile and CI-budget Python import time with PEP 810 lazy imports | Python |
+| [pidprobe](https://github.com/tomada1114/pidprobe) | JSON snapshots of running CPython 3.14+ processes via PEP 768 — no agent, no restart | Python |
 
-### 🗄️ **Database & Backend Services**
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,mysql" />
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" height="32"/>
+### 🧱 Project templates
 
-### ☁️ **Infrastructure & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" />
+Strict, CI-gated starting points I build my own projects from.
 
-### 🏅 **Certifications & Skills**
-<img src="https://img.shields.io/badge/AWS_Certified-6_Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/TOEIC-910-005CAF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" height="32"/>
+| Template | Highlights |
+|---|---|
+| [nextjs-app-template](https://github.com/tomada1114/nextjs-app-template) | App Router · Tailwind v4 · shadcn/ui · i18n · LLM call behind a port with a fake adapter by default |
+| [typescript-template](https://github.com/tomada1114/typescript-template) | ESM-only library · pnpm · Vitest · typescript-eslint · publint · arethetypeswrong |
+| [uv-template](https://github.com/tomada1114/uv-template) | uv · hatchling · ruff · mypy strict · pytest · MkDocs · CI/CD |
+| [macos-app-template](https://github.com/tomada1114/macos-app-template) | XcodeGen + SwiftPM · Swift Testing with coverage floor · notarized releases · hardened CI |
 
-</td>
-</tr>
-</table>
+### 🗣 Apps I use daily
+
+Small learning apps I build for, and use in, my own daily English study.
+
+| App | What it does | Stack |
+|---|---|---|
+| [quick-reply-drill](https://github.com/tomada1114/quick-reply-drill) | Answer an English question in 60 seconds; an LLM grades it against a fixed rubric | Next.js · AI SDK · Recharts |
+| [instant-composition](https://github.com/tomada1114/instant-composition) | Japanese → English speaking drills with a timer | Next.js · SQLite |
+| [english-vocab-app](https://github.com/tomada1114/english-vocab-app) | Local-only vocabulary cards with FSRS scheduling | Next.js · ts-fsrs |
+
+## Find me
+
+[![X](https://img.shields.io/badge/@muscle__coding-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/muscle_coding)
+[![Website](https://img.shields.io/badge/vibecodingstudio.dev-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.vibecodingstudio.dev/founder)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/user/zeng-shan-you-si)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vibe-coding-studio)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/tomada)
